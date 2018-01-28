@@ -7,7 +7,7 @@ Convert mysql dump file to postgresql script.
 `mysqldump --compatible=postgresql --default-character-set=utf8 --hex-blob -r databasename.mysql -u root databasename`
 2. convert the dump file to postgresql script:   
 `mysql2postgresql -i databasename.mysql -o databasename.sql`
-3. use the script with psql1111:   
+3. use the script with psql:   
 `\i databasename.sql`
 
 ### Reference
