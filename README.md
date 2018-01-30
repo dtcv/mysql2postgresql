@@ -1,4 +1,4 @@
-# mysql2postgresql
+# mysql2postgresql-lanni
 Convert mysql dump file to postgresql script.   
 ### How to build test
 `go get github.com/dtcv/mysql2postgresql`
