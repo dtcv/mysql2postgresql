@@ -1,4 +1,4 @@
-# mysql2postgresql-lanni
+
 Convert mysql dump file to postgresql script.  
 Convert mysql dump file to postgresql script.   
 ### How to build test
