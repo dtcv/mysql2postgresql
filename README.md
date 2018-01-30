@@ -1,5 +1,5 @@
-# mysql2postgresql
-Convert mysql dump file to postgresql script.   
+# mysql2postgresql-dtc
+Convert mysql dump file to postgresql script.  
 ### How to build test
 `go get github.com/dtcv/mysql2postgresql`
 ### How to use
