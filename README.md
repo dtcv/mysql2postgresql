@@ -1,6 +1,7 @@
-# mysql2postgresql
+
+Convert mysql dump file to postgresql script.  
 Convert mysql dump file to postgresql script.   
-### How to build
+### How to build test
 `go get github.com/dtcv/mysql2postgresql`
 ### How to use
 1. use mysqldump to dump database from mysql:
